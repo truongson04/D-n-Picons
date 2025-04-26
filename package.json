@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@portabletext/react": "^3.2.1",
     "@sanity/client": "^6.29.1",
     "@sanity/image-url": "^1.1.0",
+=======
+>>>>>>> 5cbc9a5a9e0a95e30f783f3ef8b14834dfedf12c
     "@tailwindcss/vite": "^4.0.9",
     "lucide-react": "^0.477.0",
     "react": "^18.2.0",
